@@ -1,0 +1,81 @@
+header{
+   
+   
+}
+
+.navbar{
+    text-align: center;
+    font-size:15px;
+    display: flex;  
+    font-weight: 400;
+    color:#d7d1c9;
+    font-family: Roboto,sans-serif;
+    padding:10px;
+    justify-content: center;
+    background: black;
+    position:fixed;
+   height: 50px;
+   top:0;
+    width:100%;
+    
+}
+#icontop{
+    position: absolute;
+    left:20px;
+}
+.navitem{
+    margin:10px;
+    
+}
+h1{
+    text-align: center;
+    margin: 140px;    
+    
+}
+.imgflex{
+    display: flex;
+    align-items: center;
+    margin-top:100px;
+    
+}
+h2{
+    margin:30x;
+    color:white;
+    line-height: 20px;
+    letter-spacing: 0.01px;
+    font-family: Lato,sans-serif;
+}
+.imgright{
+    margin-left:20px;
+}
+body{
+    background-color: black;
+}
+p{
+    color:#d7d1c9;
+}
+h1{
+    color:orange;
+}
+a{
+    display: intline-block;
+    color:white;
+    background-color: orange;
+    padding:5px 20px 5px 20px;
+}
+.cardholder{
+    display: flex;
+    flex-wrap: wrap;
+    justify-items: center;
+
+}
+.cards{
+    flex-basis:25%;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h3{
+    color:white;
+}
